@@ -8310,10 +8310,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hotkeys-js@npm:^3.13.3":
-  version: 3.13.9
-  resolution: "hotkeys-js@npm:3.13.9"
-  checksum: 7632df9031f18578767bf50c2b83b8f7d18066820398d15ff212234d805d3df2056cf1704d6e3e42c63beb92c77f0eb5a541968281083f1858d76361765d1861
+"hotkeys-js@npm:^3.13.14":
+  version: 3.13.14
+  resolution: "hotkeys-js@npm:3.13.14"
+  checksum: 27defffb557729c3868a0659683bbbd2cfc50c1bc834af80b654dbdc5b6b5ee5c7343d55ff44a7347e8eea16ff889f2cde5843c4519aeaa40183e96b0271c45b
   languageName: node
   linkType: hard
 
@@ -13647,7 +13647,7 @@ __metadata:
     eslint-plugin-unused-imports: ^4.1.4
     exports-loader: ^5.0.0
     globals: ^16.0.0
-    hotkeys-js: ^3.13.3
+    hotkeys-js: ^3.13.14
     html-react-parser: ^5.2.0
     html-to-image: 1.11.11
     image-minimizer-webpack-plugin: ^4.0.2
